@@ -6,3 +6,5 @@ pairs to simplify models and maintains surface error approximations using quadri
 
 Based on the paper by Michael Garland & Paul S. Heckbert:
 http://mgarland.org/files/papers/quadrics.pdf
+
+As part of the COMP 557 - Fundamentals of Computer Graphics class at McGill.
